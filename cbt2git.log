@@ -1,0 +1,27 @@
+2023-04-03 00:18:52.727440 - Initialized conversion of CBT443
+2023-04-03 00:18:52.997405 - Received CBT.V504.FILE443.PDS from FILE443.XMI 
+2023-04-03 00:18:53.000117 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:18:53.001264 - Found #MEMBERS.txt (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/#MEMBERS
+2023-04-03 00:18:53.002406 - Found #XMIT.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/#XMIT
+2023-04-03 00:18:53.003626 - Found @CMD#120.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@CMD#120
+2023-04-03 00:18:53.004912 - Found @ENQ#003.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@ENQ#003
+2023-04-03 00:18:53.005973 - Found @ENQC.rexx (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@ENQC
+2023-04-03 00:18:53.007056 - Found @FILE443.txt (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@FILE443
+2023-04-03 00:18:53.008258 - Found @LISTD3.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@LISTD3
+2023-04-03 00:18:53.009365 - Found @LOADMAP.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@LOADMAP
+2023-04-03 00:18:53.010402 - Found @LOC#301.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@LOC#301
+2023-04-03 00:18:53.011368 - Found @OS#6HC.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@OS#6HC
+2023-04-03 00:18:53.012510 - Found @OS#6HC2.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@OS#6HC2
+2023-04-03 00:18:53.012522 - Found @SLEEP.bin containing application/octet-stream, moved to PDS/@SLEEP
+2023-04-03 00:18:53.014616 - Found @SMF30#1.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@SMF30#1
+2023-04-03 00:18:53.015716 - Found @SMF41#0.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@SMF41#0
+2023-04-03 00:18:53.016860 - Found @SMF74#8.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@SMF74#8
+2023-04-03 00:18:53.017909 - Found @SMF99#D.txt (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@SMF99#D
+2023-04-03 00:18:53.018850 - Found @SMF99#T.txt (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@SMF99#T
+2023-04-03 00:18:53.019930 - Found @SMF99#1.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@SMF99#1
+2023-04-03 00:18:53.021053 - Found @VOL.txt (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@VOL
+2023-04-03 00:18:53.022032 - Found @VOL#301.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@VOL#301
+2023-04-03 00:18:53.023076 - Found @WLMTRC.rexx (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/@WLMTRC
+2023-04-03 00:18:53.024127 - Found VSCHK000.jcl (text/plain) in CBT.V504.FILE443.PDS, moved to PDS/VSCHK000
+2023-04-03 00:18:53.031337 - Found WLMTRCD.xmi (application/xmit) in CBT.V504.FILE443.PDS
+2023-04-03 00:18:53.035013   - Received to CBT443/TRACE.DATA
